@@ -73,7 +73,9 @@ To get the banking management system up and running, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-usernamebank-management-system.git 
+   git clone https://github.com/your-usernamebank-management-system.git
+   ```
+   ```bash
    cd bank-management-system 
    ```
 
